@@ -1,0 +1,11 @@
+.inventory-list {
+  list-style: none;
+  padding: 0;
+  margin: 0;
+}
+
+.inventory-item {
+  display: flex;
+  align-items: center;
+  margin-bottom: 1rem;
+}
